@@ -1,1 +1,7 @@
-hello
+.edit-section {
+  display: none;
+}
+
+.todo-item.edit .edit-section {
+  display: block;
+}
